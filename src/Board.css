@@ -1,0 +1,10 @@
+.Board {
+  margin: 0 auto;
+  text-align: center;
+  width: 80vw;
+  border: 1px solid black;
+}
+
+.Board-table {
+  margin: 0 auto;
+}
